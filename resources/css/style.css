@@ -22,6 +22,18 @@ body{
     color: gray;
 }
 
+.ternary{
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* IMAGES */
+
+.phone{
+    padding-top: 25px;
+}
+
 /* LINKS */
 
 .download{
